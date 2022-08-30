@@ -10,7 +10,7 @@ Links:
 - [Telegram Channel](https://t.me/pooyasabramooz)
 - [Youtube Channel](https://www.youtube.com/c/PooyaSabramooz1369)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=sabramooz&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=sabramooz&show_icons=true&count_private=true)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabramooz&layout=compact">
 
 
